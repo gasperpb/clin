@@ -1,3 +1,5 @@
+<a href="{{route('post.create')}}">Criar um Post</a>
+
 <H1> Post</H1>
 
 
