@@ -1,3 +1,17 @@
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no GitHub
+
+## Ícones
+
+- :package: Nova Funcionalidade 📦
+- :up: Atualização              🆙
+- :beetle: Correção de Bug      🐞
+- :checkered_flag: Release      
+- 👌 : tudo ok
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Post;
 use Illuminate\Http\Request;
+use PhpParser\Node\Expr\FuncCall;
 
 class PostController extends Controller
 {
@@ -16,5 +17,9 @@ class PostController extends Controller
     public function create()
     {
         return view('admin.posts.create');
+    }
+    public function store()
+    {
+        dd('Cadastro um novo post...');
     }
 }
